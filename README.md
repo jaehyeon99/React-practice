@@ -5,6 +5,6 @@
 
 #### 21.02.18
 
-- React hooks 에 대하여 공부
+- React hooks 에 대하여 공부  
   먼저 class component를 이용하여 끝말잇기 게임을 만든 후
   hooks 로 변경 (02. 끝말잇기)
