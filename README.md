@@ -13,6 +13,10 @@
 
 - React props 에 대해 공부(03.숫자야구)
 
-#### 21.02.24
+#### 21.02.26
 
-- Tic Tac Toe 게임 리액트로 만들어보기 (04.Tic Tac Toe)
+- Tic Tac Toe 게임 리액트로 구현해보기 (04.Tic Tac Toe)
+
+#### 21.03.01
+
+- TODoList 리액트로 구현해 보기 (05.Todolist)
