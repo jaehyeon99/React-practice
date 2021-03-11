@@ -27,3 +27,7 @@
 - 실시간 댓글 기능
 - Like 버튼 클릭 시 숫자 증가 
 - moment.js 를 이용한 실시간 댓글 시간 기능
+
+###### 추가적으로 공부할 것
+- firebase 와 react연동
+- firebase를 활용한 login 기능
