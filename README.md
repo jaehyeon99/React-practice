@@ -20,7 +20,3 @@
 #### 21.03.01
 
 - TODoList 리액트로 구현해 보기 (05.Todolist)
-
-#### 21.03.07
-
-- 시맨틱 UI 와 react component를 이용하여 간단한 웹 구현
